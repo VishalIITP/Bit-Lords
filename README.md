@@ -40,6 +40,7 @@ You can track attandance or assign task to employee from admin panel
 
 credits:
 frontend developed by
+    
     Vishal Yadav
     B.Tech IIT-Patna
     1st Year
