@@ -39,7 +39,21 @@ You can track attandance or assign task to employee from admin panel
 
 
 credits:
-
+frontend developed by
+    Vishal Yadav
+    B.Tech IIT-Patna
+    1st Year
+    email: vihtlcpp@gmail.com
+    linkedin:https://www.linkedin.com/in/vishal-yadav-71a514208
+    github:https://github.com/VishalIITP
+    
+    
+    Suyog Chaudhari
+    B.Tech IIT-Patna
+    1st Year
+    email:
+    linkedin:
+    github:
 bakend developed by
 
 Pawan Kumar 
