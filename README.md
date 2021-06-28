@@ -55,13 +55,13 @@ frontend developed by
     email:
     linkedin:
     github:
-bakend developed by
+    bakend developed by
 
-Pawan Kumar 
-B.Tech IIT-Patna
-1st Year
-Roll no: 2001EE42
-email: pawankumar.gzp2002@gmail.com
-linkdin:https://www.linkedin.com/in/pawan-kumar-395a8b1bb/
-github:https://github.com/pawankumar2002
+    Pawan Kumar 
+    B.Tech IIT-Patna
+    1st Year
+    Roll no: 2001EE42
+    email: pawankumar.gzp2002@gmail.com
+    linkdin:https://www.linkedin.com/in/pawan-kumar-395a8b1bb/
+    github:https://github.com/pawankumar2002
 
